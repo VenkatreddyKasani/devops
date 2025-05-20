@@ -1,0 +1,21 @@
+div{
+    height: 100px;
+    width: 100px;
+    background-color: aqua;
+    border: 2px solid black;
+    display: inline-block;
+}
+#box2{
+    height: 200px;
+    width: 200px;
+    position:fixed;
+    top: 20px;
+    margin-top: 200px;
+    z-index: 3;
+    background-image: url(http://thewowstyle.com/wp-content/uploads/2015/01/nature-images.jpg);
+    background-size:cover;
+}
+#box1{
+    position: absolute;
+    bottom: 20px;
+}

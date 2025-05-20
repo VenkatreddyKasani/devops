@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    font-size: Arial;
+    border: border-box;
+
+}
+.navbar{
+  height: 67.2px;
+  background-color:#ffffff;
+}
+.nav-logo{
+    width: 160px;
+    height: 40px;
+}
+.logo{
+    background-image: url(https://static-assets-web.flixcart.com/batman-returns/batman-returns/p/images/fkheaderlogo_exploreplus-44005d.svg);
+    background-size: cover;
+    height: 40px;
+    width: 160px;
+}

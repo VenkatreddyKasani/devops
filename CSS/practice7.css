@@ -1,0 +1,15 @@
+div{
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    position: absolute;
+    border: 5px solid black;
+    border-top: 2px solid aqua;
+    top: 100px;
+    left: 100px;
+    animation: animation 1s ease-in 0s infinite normal;
+}
+@keyframes animation {
+    from{transform:rotate(0deg);}
+    to{transform: rotate(360deg);}   
+}
